@@ -1,0 +1,32 @@
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\Code Read Write.exe.config
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\Code Read Write.exe.manifest
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\Code Read Write.application
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\Code Read Write.exe
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\Code Read Write.pdb
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\AForge.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\AForge.Video.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\zxing.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\zxing.presentation.dll
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\AForge.xml
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\AForge.Video.xml
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\zxing.pdb
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\zxing.xml
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\zxing.presentation.pdb
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\bin\Debug\zxing.presentation.xml
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code Read Write.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code_Read_Write.Form1.resources
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code_Read_Write.Properties.Resources.resources
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code Read Write.csproj.GenerateResource.Cache
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code Read Write.exe.manifest
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code Read Write.application
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code Read Write.exe
+C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code Read Write.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Read Write", "Code Read Write\Code Read Write.csproj", "{6A81DBCD-2CEB-433A-A412-DED6873762C7}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup", "Setup\Setup.isproj", "{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7} = {6A81DBCD-2CEB-433A-A412-DED6873762C7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{6A81DBCD-2CEB-433A-A412-DED6873762C7}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.Debug|Any CPU.ActiveCfg = DVD-5
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.Debug|Any CPU.Build.0 = DVD-5
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.DVD-5|Any CPU.Build.0 = DVD-5
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.Release|Any CPU.ActiveCfg = SingleImage
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.Release|Any CPU.Build.0 = SingleImage
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{20EB5270-A4F5-43B9-A0F3-AA5805118ED7}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://roboticseeblog.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = Code\u0020Read\u0020Write\\Code\u0020Read\u0020Write.csproj
+		SccProjectName0 = Code\u0020Read\u0020Write
+		SccLocalPath0 = Code\u0020Read\u0020Write
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
