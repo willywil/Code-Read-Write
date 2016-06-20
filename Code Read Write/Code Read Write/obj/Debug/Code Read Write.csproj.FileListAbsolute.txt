@@ -30,3 +30,6 @@ C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Wri
 C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code Read Write.application
 C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code Read Write.exe
 C:\Users\Jon\Documents\Visual Studio 2013\Projects\Code Read Write\Code Read Write\obj\Debug\Code Read Write.pdb
+C:\Users\Jon\Source\Repos\Code-Read-Write\Code Read Write\Code Read Write\bin\Debug\Code Read Write.exe.config
+C:\Users\Jon\Source\Repos\Code-Read-Write\Code Read Write\Code Read Write\obj\Debug\Code Read Write.exe
+C:\Users\Jon\Source\Repos\Code-Read-Write\Code Read Write\Code Read Write\obj\Debug\Code Read Write.pdb

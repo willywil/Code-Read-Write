@@ -32,6 +32,7 @@ namespace Code_Read_Write
             try
             {
                 //Discovers all capture devices and adds to the Combo box
+
                 CaptureDevice = new FilterInfoCollection(FilterCategory.VideoInputDevice);
                 foreach (FilterInfo Device in CaptureDevice)
                 {
@@ -49,11 +50,12 @@ namespace Code_Read_Write
                 //{
                     
                 //}
-            } catch
-              {
+            }
+            catch
+            {
                 CamCombo.Items.Add("No camera devices available!");
                 CamCombo.SelectedIndex = 0;
-              }
+            }
            
             FinalFrame = new VideoCaptureDevice();
             /*
@@ -204,7 +206,7 @@ namespace Code_Read_Write
                 {
                     string decoded = result.ToString().Trim(); //This can also be a SQL query
                     TxtOut.Text = decoded;
-                    if (TxtOut.CausesValidation) //??????
+                    if (TxtOut.CausesValidation) //??????Change to if(textout != null) play sound & timer false
                     {
                         
                     }
